@@ -58,11 +58,6 @@ public class FizzBuzzHelperTest {
 	}
 	
 	@Test
-	public void printResults() {
-		
-	}
-	
-	@Test
 	public void containsThreeTrue() {
 		assertTrue(helper.containsThree(1325));
 		assertTrue(helper.containsThree(13));
